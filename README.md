@@ -1,7 +1,7 @@
 
 
 # AI-Based Job Recommendation Analysis
-![AI-Based Job Recommendation Banner](https://github.com/tanucs/tanucs/blob/main/26477283_data.jpg?raw=true)
+![AI-Based Job Recommendation Banner](https://github.com/tanucs/ai-job-recommendation-analysis/blob/main/maxresdefault.jpg)
 ## Overview
 This project explores how data patterns can support AI-based job recommendation systems by analyzing job listing datasets.
 
